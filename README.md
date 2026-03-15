@@ -1,2 +1,16 @@
-# Simon-says-game
-A simple interactive Simon Says memory game built with HTML, CSS, and JavaScript where players repeat an increasingly complex color sequence to advance levels.
+# Simon Says Game
+
+A simple interactive memory game built using HTML, CSS, and JavaScript.
+
+## Live Demo
+https://udaytech29.github.io/Simon-says-game/
+
+## Features
+- Interactive color sequence game
+- Increasing difficulty levels
+- Built with pure JavaScript DOM manipulation
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
